@@ -14,7 +14,7 @@
 
 <p align="left"> 
   <img alt="Top Langs by Repos" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KazMat1&theme=github" />
-  <img alt="Top Langs by Commits" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KazMat1&theme=github&utcOffset=8" />
+  <img alt="Top Langs by Commits" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KazMat1&theme=github&utcOffset=9" />
 </p>
 
 ## Programming Languages
