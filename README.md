@@ -1,16 +1,27 @@
-### Hi there 👋
+# About Me
 
-<!--
-**KazMat1/KazMat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- バックエンド、ときどきフロントエンド
 
-Here are some ideas to get you started:
+## Activity Overview
+<p align="left"> 
+  <img alt="About my activity" width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazMat1&theme=github" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+  <img alt="Top Langs by Repos" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KazMat1&theme=github" />
+  <img alt="Top Langs by Commits" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KazMat1&theme=github" />
+</p>
+
+<p align="left"> 
+  <img alt="Top Langs by Repos" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KazMat1&theme=github" />
+  <img alt="Top Langs by Commits" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KazMat1&theme=github&utcOffset=8" />
+</p>
+
+## Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php" /> <br /><br />
+
+## Frameworks and Libraries
+<img src="https://skillicons.dev/icons?i=scss,bootstrap,tailwindcss,babel,gulp,webpack,vite,vitest,vue,react,next,django,laravel,wordpress" /> <br /><br />
+
+## DB and Dev Tools etc
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,nginx,docker,git,github,gitlab,vscode,linux,aws,figma" /> <br /><br />
