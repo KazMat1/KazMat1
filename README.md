@@ -1,6 +1,5 @@
-# About Me
-
-- バックエンド、ときどきフロントエンド
+# About me 
+- A frontend and backend developer
 
 ## Activity Overview
 <p align="left"> 
@@ -12,16 +11,20 @@
   <img alt="Top Langs by Commits" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KazMat1&theme=github" />
 </p>
 
-<p align="left"> 
+<!-- <p align="left"> 
   <img alt="Top Langs by Repos" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KazMat1&theme=github" />
   <img alt="Top Langs by Commits" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KazMat1&theme=github&utcOffset=9" />
-</p>
+</p> -->
 
 ## Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,nodejs" /> <br /><br />
 
 ## Frameworks and Libraries
-<img src="https://skillicons.dev/icons?i=scss,bootstrap,tailwindcss,babel,gulp,webpack,vite,vitest,vue,react,next,django,laravel,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=scss,bootstrap,tailwindcss,vuetify,vue,nuxt,react,next,django,fastapi,laravel,wordpress,express,jest,vitest" /> <br /><br />
 
-## DB and Dev Tools etc
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,nginx,docker,git,github,gitlab,vscode,linux,aws,figma" /> <br /><br />
+## Other
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,firebase,nginx,linux,docker,kubernetes,aws,azure,vercel,netlify" /> <br /><br />
+
+## Interested
+<img src="https://skillicons.dev/icons?i=remix,bun,graphql,docker,kubernetes,terraform,githubactions,aws" /> <br /><br />
+
