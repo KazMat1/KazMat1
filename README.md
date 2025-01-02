@@ -14,7 +14,7 @@
 <!-- <p align="left"> 
   <img alt="Top Langs by Repos" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KazMat1&theme=github" />
   <img alt="Top Langs by Commits" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KazMat1&theme=github&utcOffset=9" />
-</p> -->
+</p> 
 
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,nodejs" /> <br /><br />
@@ -26,5 +26,5 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,firebase,nginx,linux,docker,kubernetes,aws,azure,vercel,netlify" /> <br /><br />
 
 ## Interested
-<img src="https://skillicons.dev/icons?i=remix,bun,graphql,docker,kubernetes,terraform,githubactions,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=remix,bun,graphql,docker,kubernetes,terraform,githubactions,aws" /> <br /><br /> -->
 
