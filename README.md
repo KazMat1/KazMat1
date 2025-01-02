@@ -1,3 +1,6 @@
+# About me 
+- A frontend and backend developer
+
 ## Activity Overview
 <p align="left"> 
   <img alt="About my activity" width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazMat1&theme=github" />
