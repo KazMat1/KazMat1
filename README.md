@@ -20,8 +20,8 @@
 <img src="https://skillicons.dev/icons?i=scss,bootstrap,tailwindcss,vuetify,vue,nuxt,react,next,django,fastapi,laravel,wordpress,express,jest,vitest" /> <br /><br />
 
 ## Other
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,firebase,nginx,linux,docker,kubernetis,aws,azure,vercel,netlify" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,firebase,nginx,linux,docker,kubernetes,aws,azure,vercel,netlify" /> <br /><br />
 
 ## Interested
-<img src="https://skillicons.dev/icons?i=remix,bun,graphql,docker,kubernetis,terraform,githubactions,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=remix,bun,graphql,docker,kubernetes,terraform,githubactions,aws" /> <br /><br />
 
